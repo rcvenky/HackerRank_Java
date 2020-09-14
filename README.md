@@ -1,2 +1,6 @@
 # HackerRank_Java
-DayWise J-A-V-A Challenging Programs
+
+
+
+
+Added DayWise Coding Challenging in JAVA Programming
